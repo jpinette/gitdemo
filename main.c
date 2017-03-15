@@ -152,3 +152,4 @@ void printHelp()
 	printf("\n");
 	printf("Options: -r reverses, -v is more verbose, -o set output file\n");
 }
+//a comment line
